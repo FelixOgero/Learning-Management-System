@@ -5,9 +5,6 @@ Key Features:
 - Mark Chapters as Completed or Uncompleted
 - Progress Calculation of each Course
 - Student Dashboard
-
-This is a repository for Build an LMS Platform: Next.js 13,  React, Stripe, Mux, Prisma, Tailwind, MySQL | Full Course 2023
-
 - Create new Courses
 - Create new Chapters
 - Easily reorder chapter position with drag n’ drop
